@@ -1,4 +1,4 @@
-console.log('clint side javascript is loaded')
+
 
 
 const form = document.querySelector('.weather-form')
