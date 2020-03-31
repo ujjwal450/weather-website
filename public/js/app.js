@@ -1,6 +1,3 @@
-
-
-
 const form = document.querySelector('.weather-form')
 const search = document.querySelector('input')
 
